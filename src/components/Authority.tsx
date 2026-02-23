@@ -19,7 +19,7 @@ export const Authority: React.FC = () => {
             <div className="relative max-w-sm mx-auto lg:max-w-none">
               <div className="aspect-[3/4] rounded-3xl overflow-hidden shadow-2xl border-8 border-white">
                 <img 
-                  src="/images/luana.jpg" 
+                  src="/images/luana.png" 
                   alt="Luana Andrade" 
                   className="w-full h-full object-cover"
                 />
